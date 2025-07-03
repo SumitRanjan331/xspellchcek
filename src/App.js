@@ -40,7 +40,7 @@ function App() {
 
   }
 
-  // Render the component
+
   return (
     <div className="App">
 
